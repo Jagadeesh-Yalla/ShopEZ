@@ -103,7 +103,7 @@ https://drive.google.com/file/d/1RWiUFqAd1DWwNpJN6V1nf3_PY6OR0q54/view?usp=shari
 ## 🎥 Demo Video
 
 📌 Watch Project Demo Here:  
-[👉 [Click Here to Watch Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)](https://drive.google.com/file/d/1XQBNqe_N6MgpXYp8YVxXKdRInbla9PRC/view?usp=sharing)
+[👉 (https://drive.google.com/file/d/1XQBNqe_N6MgpXYp8YVxXKdRInbla9PRC/view?usp=sharing)
 
 👨‍💻 Developed By
 Jagadeesh
