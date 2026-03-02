@@ -95,15 +95,16 @@ JWT_SECRET=your_secret_key
 PORT=5000
 ## 📄 Project Documentation
 
-📌 View Full Documentation Here:  
+📌 View Full Documentation Here:
+ 👉 [Click Here to View Documentation] 
 https://drive.google.com/file/d/1RWiUFqAd1DWwNpJN6V1nf3_PY6OR0q54/view?usp=sharing
-
 ---
 
 ## 🎥 Demo Video
 
 📌 Watch Project Demo Here:  
-[👉 (https://drive.google.com/file/d/1XQBNqe_N6MgpXYp8YVxXKdRInbla9PRC/view?usp=sharing)
+👉 [Click Here to Watch Demo]
+https://drive.google.com/file/d/1XQBNqe_N6MgpXYp8YVxXKdRInbla9PRC/view?usp=sharing
 
 👨‍💻 Developed By
 Jagadeesh
